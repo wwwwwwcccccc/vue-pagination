@@ -27,8 +27,8 @@ var webpackConfig = merge(baseWebpackConfig, {
    output: {
     path: config.bundle.assetsRoot,
     publicPath: config.bundle.assetsPublicPath,
-    filename: 'vue-marquee.min.js',
-    library: 'VueMarquee',
+    filename: 'vue-pagination.min.js',
+    library: 'VuePagination',
     libraryTarget: 'umd'
   },
   plugins: [
@@ -45,7 +45,7 @@ var webpackConfig = merge(baseWebpackConfig, {
     // extract css into its own file
     new ExtractTextPlugin({
       // filename: utils.assetsPath('css/[name].[contenthash].css')
-       filename: 'vue-marquee.min.css'
+       filename: 'vue-pagination.min.css'
     }),
     // Compress extracted CSS. We are using this plugin so that possible
     // duplicated CSS from different components can be deduped.

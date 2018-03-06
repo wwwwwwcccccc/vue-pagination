@@ -106,14 +106,17 @@ export default {
   props: {
     total: {
       type: Number,
+      required: true,
       default: 1
     },
     pageSize: {
       type: Number,
+      required: true,
       default: 10
     },
     currentPage: {
       type: Number,
+      required: true,
       default: 1
     },
     showTotal: {
