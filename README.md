@@ -1,11 +1,10 @@
 # vue-pagination-mini
-<h3>一个简单功能齐全的翻页组件。</h3>
-<br/>
-<h3>A Vue Simple pagination component</h3>
+<h4>一个简单功能齐全的翻页组件。</h4>
+<h4>A Vue Simple pagination component</h4>
 
 <p align="center">
   <a href="">
-    <img src="./view.png" alt="Software License" />
+    <img src="./view.png" alt="view" />
   </a>
 
 </p>
@@ -37,7 +36,9 @@ npm install --save vue-pagination-mini
 </template>
 
 <script>
-import VuePagination from '../dist/vue-pagination.min.js'
+
+import VuePagination from 'vue-pagination-mini'
+import 'vue-pagination-mini/dist/vue-pagination.min.css'
 
 export default {
   name: 'App',

@@ -1,5 +1,5 @@
 {
-  "name": "vue-pagination",
+  "name": "vue-pagination-mini",
   "version": "1.0.0",
   "description": "A simple Vue component to pagination",
   "author": "wwwwwwcccccc",
@@ -18,6 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/wwwwwwcccccc/vue-pagination.git"
   },
+  "keywords": [
+    "vue",
+    "pagination",
+    "component",
+    "simple",
+    "mini"
+  ],
+  "bugs": {
+    "url": "https://github.com/wwwwwwcccccc/vue-pagination/issues"
+  },
+  "homepage": "https://github.com/wwwwwwcccccc/vue-pagination#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.22.1",
