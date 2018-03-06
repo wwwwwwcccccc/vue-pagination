@@ -1,5 +1,6 @@
 # vue-pagination
-Vue pagination component for use with Bootstrap and Laravel pagination.
+一个简单功能齐全的翻页组件。
+A Vue Simple pagination component
 
 <p align="center">
   <a href="">
