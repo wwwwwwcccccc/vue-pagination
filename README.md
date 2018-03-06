@@ -1,6 +1,7 @@
-# vue-pagination
-一个简单功能齐全的翻页组件。
-A Vue Simple pagination component
+# vue-pagination-mini
+<h3>一个简单功能齐全的翻页组件。</h3>
+<br/>
+<h3>A Vue Simple pagination component</h3>
 
 <p align="center">
   <a href="">
@@ -9,12 +10,12 @@ A Vue Simple pagination component
 
 </p>
 
-* [Vue.js](http://vuejs.org/) (tested with 2.2.1).
+* [Vue.js](http://vuejs.org/) (tested with 2.x).
 
 
 ### Installation
 ```
-npm install --save vue-pagination-simple
+npm install --save vue-pagination-mini
 ```
 
 
