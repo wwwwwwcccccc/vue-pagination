@@ -3,7 +3,7 @@ Vue pagination component for use with Bootstrap and Laravel pagination.
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License" />
+    <img src="./view.png" alt="Software License" />
   </a>
 
 </p>
@@ -74,7 +74,7 @@ export default {
 | pageSizes     | Array    | [10, 20, 30, 50] |     | The number of optional values per page.
 
 
-##### Events
+#### Events
 | Name                | Callback                      | Description
 | :-------------------| :-----------------------------| :----------
 | size-change         | Size per page                 | PageSize is triggered when it changes.
@@ -99,7 +99,7 @@ export default {
 | pageSizes     | Array    | [10, 20, 30, 50] |     | 每页显示个数选择器的选项设置
 
 
-##### Events
+#### Events
 | Name                | Callback                      | Description
 | :-------------------| :-----------------------------| :----------
 | size-change         | 每页条数size                   | pageSize 改变时会触发
